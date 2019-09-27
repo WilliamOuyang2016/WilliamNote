@@ -24,6 +24,7 @@ HTTP: https://developer.mozilla.org/en-US/docs/Web/HTTP
 
 
 ## ML: 
+
 http://bit.ly/ML-StudyJam
 
 1S-Sanfrancisco-5621
@@ -40,7 +41,7 @@ Natural Language Processing(NLP) for Machine Learning
 
 https://towardsdatascience.com/natural-language-processing-nlp-for-machine-learning-d44498845d5b
 
-ML 基本概念 获得
+* ML 基本概念 获得
 
 https://scikit-learn.org/stable/
 
