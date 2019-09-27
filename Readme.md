@@ -43,8 +43,8 @@ https://towardsdatascience.com/natural-language-processing-nlp-for-machine-learn
 
 * ML 基本概念 获得
 
-https://scikit-learn.org/stable/
+** https://scikit-learn.org/stable/
 
-https://www.tensorflow.org/
+** https://www.tensorflow.org/
 
-https://pytorch.org/
+** https://pytorch.org/
