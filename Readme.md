@@ -3,7 +3,7 @@
 
 
 
-#Web Dev Good WebSite:
+##Web Dev Good WebSite:
 
 https://developer.mozilla.org/en-US/
 
@@ -12,18 +12,18 @@ JavaScript Live Example: https://github.com/mdn/interactive-examples/tree/master
 
 HTTP: https://developer.mozilla.org/en-US/docs/Web/HTTP
 
-#Front-end:
+##Front-end:
 
 
-#Backend:
+##Backend:
 
 
-#Scala:
+##Scala:
 
-#Python:
+##Python:
 
 
-#ML: 
+##ML: 
 http://bit.ly/ML-StudyJam
 
 1S-Sanfrancisco-5621
