@@ -17,3 +17,5 @@ Introduction to NumPy, SciPy, and Matplotlib
 NumPy: http://cs231n.github.io/python-numpy-tutorial/
 
 https://www.kaggle.com/
+
+how models work : https://www.kaggle.com/dansbecker/how-models-work
