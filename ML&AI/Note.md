@@ -27,3 +27,14 @@ Machine learning works the same way. We'll start with a model called the Decisio
 
 [DSC 2016] 系列活動：李宏毅 / 一天搞懂深度學習
 https://www.slideshare.net/tw_dsconf/ss-62245351
+
+Stanford University School of Engineering: 
+Lecture 1 | Introduction to Convolutional Neural Networks for Visual Recognition
+Convolutional Neural Networks for Visual Recognition
+
+Instructors:
+Fei-Fei Li: http://vision.stanford.edu/feifeili/
+Justin Johnson: http://cs.stanford.edu/people/jcjohns/
+Serena Yeung: http://ai.stanford.edu/~syyeung/
+http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture1.pdf
+http://cs231n.stanford.edu/
