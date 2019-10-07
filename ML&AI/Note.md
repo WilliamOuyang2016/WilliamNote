@@ -23,3 +23,7 @@ how models work : https://www.kaggle.com/dansbecker/how-models-work
 You ask your cousin how he's predicted real estate values in the past. and he says it is just intuition. But more questioning reveals that he's identified price patterns from houses he has seen in the past, and he uses those patterns to make predictions for new houses he is considering.
 
 Machine learning works the same way. We'll start with a model called the Decision Tree. There are fancier models that give more accurate predictions. But decision trees are easy to understand, and they are the basic building block for some of the best models in data science.
+
+
+[DSC 2016] 系列活動：李宏毅 / 一天搞懂深度學習
+https://www.slideshare.net/tw_dsconf/ss-62245351
