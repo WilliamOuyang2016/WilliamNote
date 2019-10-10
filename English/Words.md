@@ -10,7 +10,7 @@
 | 4.  |  de facto standard  | 事实标准；约定俗成的标准,业界标准 |
 | 5.  | flee  |  vi. 逃走；消失，消散 vt. 逃跑，逃走；逃避  attempted to flee  |
 | 6.  | plead  |  vt. 借口；为...辩护；托称 vi. 恳求；辩护 |
-| 7.  |   |  |
+| 7.  | resistant  | adj. 抵抗的，反抗的；顽固的 n. 抵抗者 |
 | 8.  |   |  |
 | 9.  |   |  |
 | 10.  |   |  |
