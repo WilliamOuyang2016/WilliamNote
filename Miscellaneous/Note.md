@@ -5,3 +5,5 @@ Reactive Web Applications : Covers Play, Akka, and Reactive Streams
 https://www.manning.com/books/reactive-web-applications/
 
 The Reactive Manifesto : https://www.reactivemanifesto.org/
+
+Real-World Machine Learning audiobook : https://www.manning.com/liveaudio/real-world-machine-learning
