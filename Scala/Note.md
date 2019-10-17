@@ -14,3 +14,5 @@ This video also answers following questions.
 3. Why anonymous functions or when to use them?
 
 https://www.youtube.com/watch?v=jyKVtaOx_sQ
+
+Twitter Scala School:  https://twitter.github.io/scala_school/
