@@ -13,7 +13,7 @@
 | 7.  | resistant  | adj. 抵抗的，反抗的；顽固的 n. 抵抗者 |
 | 8.  | gut  | n. 内脏；肠子；剧情；胆量；海峡；勇气；直觉；肠 vt. 取出内脏 ；摧毁（建筑物等）的内部  n. （俚语）勇气；决心 |
 | 9.  |  fuzzy  | adj. 模糊的；失真的；有绒毛的 n. (Fuzzy)人名；(英)富齐 fuzzy matching: 模糊匹配  |
-| 10.  |   |  |
+| 10.  | rigid  | adj. 严格的；僵硬的，死板的；坚硬的；精确的  The Databone-Wishingwell framework was too rigid and slow to change |
 | 11.  |   |  |
 | 12.  |   |  |
 | 13.  |   |  |
