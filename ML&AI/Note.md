@@ -29,6 +29,9 @@ You ask your cousin how he's predicted real estate values in the past. and he sa
 
 Machine learning works the same way. We'll start with a model called the Decision Tree. There are fancier models that give more accurate predictions. But decision trees are easy to understand, and they are the basic building block for some of the best models in data science.
 
+Stanford-tensorflow-tutorials:  https://github.com/chiphuyen/stanford-tensorflow-tutorials 
+https://web.stanford.edu/class/cs20si/2017/syllabus.html
+
 
 [DSC 2016] 系列活動：李宏毅 / 一天搞懂深度學習
 https://www.slideshare.net/tw_dsconf/ss-62245351
