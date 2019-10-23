@@ -16,3 +16,5 @@ This video also answers following questions.
 https://www.youtube.com/watch?v=jyKVtaOx_sQ
 
 Twitter Scala School:  https://twitter.github.io/scala_school/
+
+Very Good Scala Tutorials： http://allaboutscala.com/
