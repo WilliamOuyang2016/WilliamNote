@@ -46,3 +46,10 @@ Justin Johnson: http://cs.stanford.edu/people/jcjohns/
 Serena Yeung: http://ai.stanford.edu/~syyeung/
 http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture1.pdf
 http://cs231n.stanford.edu/
+
+
+Data-Science--Cheat-Sheet :  https://github.com/abhat222/Data-Science--Cheat-Sheet 
+Data Science Tutorials: https://github.com/abhat222/Data-Science-Tutorials
+
+practicalAI : A practical approach to machine learning. https://github.com/practicalAI/practicalAI
+
