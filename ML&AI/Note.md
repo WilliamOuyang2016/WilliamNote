@@ -53,3 +53,5 @@ Data Science Tutorials: https://github.com/abhat222/Data-Science-Tutorials
 
 practicalAI : A practical approach to machine learning. https://github.com/practicalAI/practicalAI
 
+100-days-of-ml-code : https://github.com/haiqinggatech/100-days-of-ml-code 
+python-machine-learning-book: https://github.com/haiqinggatech/python-machine-learning-book
