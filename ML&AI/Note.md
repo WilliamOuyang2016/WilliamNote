@@ -33,6 +33,7 @@ Stanford-tensorflow-tutorials:  https://github.com/chiphuyen/stanford-tensorflow
 https://web.stanford.edu/class/cs20si/2017/syllabus.html
 
 
+
 [DSC 2016] 系列活動：李宏毅 / 一天搞懂深度學習
 https://www.slideshare.net/tw_dsconf/ss-62245351
 
@@ -55,3 +56,4 @@ practicalAI : A practical approach to machine learning. https://github.com/pract
 
 100-days-of-ml-code : https://github.com/haiqinggatech/100-days-of-ml-code 
 python-machine-learning-book: https://github.com/haiqinggatech/python-machine-learning-book
+Learn_Machine_Learning_in_3_Months : https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
