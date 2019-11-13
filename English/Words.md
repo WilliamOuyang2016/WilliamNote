@@ -15,7 +15,7 @@
 | 9.  |  fuzzy  | adj. 模糊的；失真的；有绒毛的 n. (Fuzzy)人名；(英)富齐 fuzzy matching: 模糊匹配  |
 | 10.  | rigid  | adj. 严格的；僵硬的，死板的；坚硬的；精确的  The Databone-Wishingwell framework was too rigid and slow to change |
 | 11.  | barf  |  v. 呕吐 n. 一阵呕吐；呕吐物 |
-| 12.  |   |  |
+| 12.  | stick with it  | 坚持下去；忍耐 |
 | 13.  |   |  |
 | 14.  |   |  |
 | 15.  |   |  |
