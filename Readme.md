@@ -57,3 +57,5 @@ https://towardsdatascience.com/natural-language-processing-nlp-for-machine-learn
 - https://www.tensorflow.org/
 
 - https://pytorch.org/
+
+- Add two github account
