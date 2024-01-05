@@ -57,3 +57,8 @@ practicalAI : A practical approach to machine learning. https://github.com/pract
 100-days-of-ml-code : https://github.com/haiqinggatech/100-days-of-ml-code 
 python-machine-learning-book: https://github.com/haiqinggatech/python-machine-learning-book
 Learn_Machine_Learning_in_3_Months : https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
+
+Berkeley: CS 188 Fall 2023
+https://inst.eecs.berkeley.edu/~cs188/fa23/
+
+
