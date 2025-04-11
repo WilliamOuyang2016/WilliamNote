@@ -1,7 +1,6 @@
 |Software Engineering Manager Interview Questions | Question | Answer |
 | ------ | ------ | ------ |
-| 1. | How do you motivate team members? |The engineering manager should discuss the methods they use, any challenges they have faced, and their strategies for overcoming challenges.|
-
+| 1. | How do you motivate team members? | The engineering manager should discuss the methods they use, any challenges they have faced, and their strategies for overcoming challenges.
 Sample answer: “I motivate engineering team members by providing clear guidance, setting achievable goals, and recognizing accomplishments. I also make sure team members have the resources they need to complete engineering projects. If there are challenges, I work with team members to identify solutions.” |
 | 2. | BBB | CCC |
 
